@@ -1,0 +1,23 @@
+# PDF extraction
+PyMuPDF
+
+# NLP + embeddings
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# LLM API (Groq)
+groq
+
+# Environment variables
+python-dotenv
+
+# Text processing
+nltk
+spacy==3.7.5
+
+# Utilities (optional but useful)
+numpy
+tqdm
+streamlit
