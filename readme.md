@@ -420,17 +420,7 @@ What should I learn before studying topic X?
 - **Key rotation:** If an API key is ever exposed, revoke and regenerate it immediately.
 - **Future work:** Features such as authentication and persistent student profiles would introduce additional security requirements (access control, secure storage of user data) that would need to be addressed if implemented.
 
----
 
-## 23. Author
-
-**Your Name**
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
-
----
 
 <div align="center">
 
